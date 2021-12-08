@@ -1,0 +1,120 @@
+<div id="top"></div>
+<!--
+* @brau-lee
+* Empezemos con pie derecho en el perfil de GitHub 
+* Hazle un fork a heste repositorio y cambiale el nombre al repositorio
+* Ahora modifiquemos el README.md de tu perfil 
+* Recuerda que la forma en la que se edita el README.md es con el lenguaje de hipermarcado HTML 
+* Que tan sorprendente puedes poner a tu perfil NO OLVIDES DE COMPARTIR
+-->
+
+
+<!-- PAGINA WEB -->
+<!-- https://brau-lee.github.io -->
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://brau-lee.github.io">
+    <img src="images/cover.png" alt="brau - lee" width="980" height="220">
+  </a>
+
+ [![Contributors][contributors-shield]][contributors-url]
+ [![Forks][forks-shield]][forks-url]
+ [![Stargazers][stars-shield]][stars-url]
+ [![Issues][issues-shield]][issues-url]
+ [![MIT License][license-shield]][license-url]
+ [![LinkedIn][linkedin-shield]][linkedin-url]
+
+ <h3 align="center">BRAU-LEE</h3>
+ 
+
+  <p align="center">
+    Este perfil esta creado exclusivamente para el ambito educativo.
+    <br />
+    <a href="https://brau-lee.github.io"><strong>EXPLORE MY WORLD »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.facebook.com/freddy.brau.lee">
+      <img alt="facebook brau - lee" src="images/facebook.svg">
+    </a>
+    ·
+    <a href="https://www.instagram.com/brau_1ee/">
+      <img alt="instagram brau - lee" src="images/instagram.svg">
+    </a>
+    ·
+    <a href="https://www.tiktok.com/@braulew32uwu?">
+    <img alt="tik tok brau - lee" src="images/tiktok.svg">
+    </a>
+    ·
+    <a href="https://discord.gg/tucYVBgq">
+    <img alt="canal - grupo de discord Devs at all" src="images/discord.svg">
+    </a>
+    ·
+    <a href="https://www.patreon.com/brau_lee">
+    <img alt=" donaciones - patreon de brau lee" src="images/patreon.svg">
+    </a>
+    ·
+    <a href="https://www.twitch.tv/brau_lee">
+    <img alt="twich - tv - en vivo - live brau-lee " src="images/twich.svg">
+    </a>
+    ·
+    <a href="https://www.youtube.com/channel/UCG41ZJowSmokP5Mrl8Y-J7w">
+    <img alt="youtube canal de videos brau-lee " src="images/youtube.svg">
+    </a>
+  </p>
+</div>
+
+### Tools 🛠 
+
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+
+### Some stats about Braulee007
+
+<p align = "center">
+  <img alt="brau - lee stats" src = "https://github-readme-stats.vercel.app/api?username=brau-lee&show_icons=true&theme=radical&line_height=33">
+</p>
+
+<p align = "center">
+<img alt="brau - lee - lenguajes "src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brau-lee&hide_langs_below=.25&theme=radical">
+</p>
+
+<!-- aqui si lees detenidamente puedes modificar los colores hexadecimales para personalisar tus stats--- 
+<img alt="brau - lee github stats" src="https://github-readme-stats.vercel.app/api?username=brau-lee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+-->
+
+⭐ From [@brau-lee](https://github.com/brau-lee)
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_brau-lee/brau-lee.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_brau-lee/braulee00/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_brau-lee/brau-lee.svg?style=for-the-badge
+[forks-url]: https://github.com/github_brau-lee/brau-lee/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_brau-lee/brau-lee.svg?style=for-the-badge
+[stars-url]: https://github.com/github_username/brau-lee/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_brau-lee/brau-lee.svg?style=for-the-badge
+[issues-url]: https://github.com/github_brau-lee/brau-lee/issues
+[license-shield]: https://img.shields.io/github/license/github_brau-lee/brau-lee.svg?style=for-the-badge
+[license-url]: https://github.com/github_brau-lee/brau-lee/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/freddy-brau-lee-mamani-rivas-4456a5217/
