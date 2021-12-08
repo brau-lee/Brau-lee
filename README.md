@@ -24,7 +24,8 @@
  [![Forks][forks-shield]][forks-url]
  [![Stargazers][stars-shield]][stars-url]
  [![Issues][issues-shield]][issues-url]
- [![MIT License][license-shield]][license-url]
+ [![GitHub-version]][git-version]
+ [![APACHE-2.0-License][license-shield]][license-url]
  [![LinkedIn][linkedin-shield]][linkedin-url]
 
  <h3 align="center">BRAU-LEE</h3>
@@ -64,6 +65,24 @@
     <img alt="youtube canal de videos brau-lee " src="images/youtube.svg">
     </a>
   </p>
+  <p align="center">
+  Hello! I’m Brau Lee Mamani <br>
+  I am passionate about Philanthropy and Cience. I like to develop technologies and give public education.
+  <br>
+ 🔭 I’m planning for a Project **Education: public courses**.
+ 
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 
+ :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ 
+ 🤔 I’m looking for help for [AVCIT-MAFREBI](https://www.facebook.com/groups/avcit.mafrebi).
+ 
+  <br>
+
+  ![Profile views](https://gpvc.arturio.dev/brau-lee) 
+  ![Profile follow](https://img.shields.io/github/followers/brau-lee) 
+  ![views](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+  </p>
 </div>
 
 ### Tools 🛠 
@@ -84,6 +103,16 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) 
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
+![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
+![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&) 
+![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku) 
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery) 
+![Vercel](http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
+![.NET](https://img.shields.io/badge/-Microsoft-%231572B6?style=flat-square&logo=.net&logoColor=ffffff)
+![C](https://img.shields.io/badge/-Sharp-%231572B6?style=flat-square&logo=c#&logoColor=ffffff)
+
 
 ### Some stats about Braulee007
 
@@ -114,7 +143,8 @@
 [stars-url]: https://github.com/github_username/brau-lee/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_brau-lee/brau-lee.svg?style=for-the-badge
 [issues-url]: https://github.com/github_brau-lee/brau-lee/issues
-[license-shield]: https://img.shields.io/github/license/github_brau-lee/brau-lee.svg?style=for-the-badge
-[license-url]: https://github.com/github_brau-lee/brau-lee/blob/master/LICENSE.txt
+[GitHub-version]:https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat
+[license-shield]: https://img.shields.io/badge/License-Apache2.0-blue.svg?style=flat
+[license-url]: https://github.com/github_brau-lee/brau-lee/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/freddy-brau-lee-mamani-rivas-4456a5217/
