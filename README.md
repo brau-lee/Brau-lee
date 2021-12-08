@@ -135,14 +135,14 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_brau-lee/brau-lee.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_brau-lee/brau-lee/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_brau-lee/brau-lee.svg?style=for-the-badge
-[forks-url]: https://github.com/github_brau-lee/Brau-lee/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_brau-lee/brau-lee.svg?style=for-the-badge
-[stars-url]: https://github.com/github_brau-lee/Brau-lee/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_brau-lee/brau-lee.svg?style=for-the-badge
-[issues-url]: https://github.com/github_brau-lee/Brau-lee/issues
+[contributors-shield]: https://img.shields.io/github/contributors/brau-lee/Brau-lee.svg?style=for-the-badge
+[contributors-url]: https://github.com/brau-lee/Brau-lee/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/brau-lee/Brau-lee.svg?style=for-the-badge
+[forks-url]: https://github.com/brau-lee/Brau-lee/network/members
+[stars-shield]: https://img.shields.io/github/stars/brau-lee/Brau-lee.svg?style=for-the-badge
+[stars-url]: https://github.com/brau-lee/Brau-lee/stargazers
+[issues-shield]: https://img.shields.io/github/issues/brau-lee/Brau-lee.svg?style=for-the-badge
+[issues-url]: https://github.com/brau-lee/Brau-lee/issues
 [GitHub-version]:https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat
 [license-shield]: https://img.shields.io/badge/License-Apache2.0-blue.svg?style=flat
 [license-url]: https://github.com/github_brau-lee/brau-lee/blob/main/LICENSE.txt
