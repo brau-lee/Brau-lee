@@ -67,6 +67,7 @@
   <p align="center">
   Hello! I’m Brau Lee Mamani <br>
   I am passionate about Philanthropy and Cience. I like to develop technologies and give public education.
+  <br> 
   <br>
  🔭 I’m planning for a Project **Education: public courses**.
  
@@ -139,7 +140,7 @@
 [forks-shield]: https://img.shields.io/github/forks/github_brau-lee/brau-lee.svg?style=for-the-badge
 [forks-url]: https://github.com/github_brau-lee/Brau-lee/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_brau-lee/brau-lee.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/Brau-lee/stargazers
+[stars-url]: https://github.com/github_brau-lee/Brau-lee/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_brau-lee/brau-lee.svg?style=for-the-badge
 [issues-url]: https://github.com/github_brau-lee/Brau-lee/issues
 [GitHub-version]:https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat
