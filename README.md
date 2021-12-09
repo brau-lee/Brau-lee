@@ -112,7 +112,9 @@
 ![Vercel](http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-Microsoft-%231572B6?style=flat-square&logo=.net&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-Sharp-%231572B6?style=flat-square&logo=c#&logoColor=ffffff)
-![Go](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
+![Go](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=Go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ### Some stats about Braulee007
 
