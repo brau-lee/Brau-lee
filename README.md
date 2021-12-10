@@ -2,23 +2,24 @@
 <!--
 * @brau-lee
 * Empezemos con pie derecho en el perfil de GitHub 
-* Hazle un fork a heste repositorio y cambiale el nombre al repositorio
+* Hazle un fork a este repositorio y cambiale el nombre al repositorio
 * Ahora modifiquemos el README.md de tu perfil 
-* Recuerda que la forma en la que se edita el README.md es con el lenguaje de hipermarcado HTML 
-* Que tan sorprendente puedes poner a tu perfil NO OLVIDES DE COMPARTIR
+* Recuerda que la forma en la que se edita el README.md es con el lenguaje de hipermarcado Markdown y HTML5 
+* Que tan sorprendente puedes poner  tu perfil NO OLVIDES DE COMPARTIR
 -->
 
 
-<!-- PAGINA WEB -->
+<!-- PAGINA WEB FREE COURSES -->
 <!-- https://brau-lee.github.io -->
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT COVER -->
 <br />
 <div align="center">
   <a href="https://brau-lee.github.io">
-    <img src="images/cover.png" alt="brau - lee" width="980" height="220">
+    <img src="images/cover.png" alt="COVER brau - lee" width="980" height="220">
   </a>
+<!-- PROJECT INFO -->
 
  [![Contributors][contributors-shield]][contributors-url]
  [![Forks][forks-shield]][forks-url]
@@ -29,6 +30,7 @@
 
  <h3 align="center">BRAU-LEE</h3>
  
+<!-- PROJECT TITLE -->
 
   <p align="center">
     Este perfil esta creado exclusivamente para el ambito educativo.
@@ -36,6 +38,7 @@
     <a href="https://brau-lee.github.io"><strong>EXPLORE MY WORLD »</strong></a>
     <br />
     <br />
+    <!-- ICONS SOCIAL NETWORKS -->
     <a href="https://www.facebook.com/freddy.brau.lee">
       <img alt="facebook brau - lee" src="images/facebook.svg">
     </a>
@@ -64,6 +67,9 @@
     <img alt="youtube canal de videos brau-lee " src="images/youtube.svg">
     </a>
   </p>
+
+<!-- PROJECT BIO -->
+
   <p align="center">
   Hello! I’m Brau Lee Mamani <br>
   I am passionate about Philanthropy and Cience. I like to develop technologies and give public education.
@@ -78,6 +84,8 @@
  🤔 I’m looking for help for [AVCIT-MAFREBI](https://www.facebook.com/groups/avcit.mafrebi).
  
   <br>
+
+  <!-- PROJECT METADATE -->
 
   ![Profile views](https://gpvc.arturio.dev/brau-lee) 
   ![Profile follow](https://img.shields.io/github/followers/brau-lee) 
@@ -95,7 +103,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -106,11 +113,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) 
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
-![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&) 
+![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron) 
 ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku) 
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery) 
 ![Vercel](http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-yellow?style=flat-square&logo=Django)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-red?style=flat-square&logo=express)
 ![.NET](https://img.shields.io/badge/-Microsoft-%231572B6?style=flat-square&logo=.net&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue.js-%231572B6?style=flat-square&logo=vue.js)
 ![C](https://img.shields.io/badge/-Sharp-%231572B6?style=flat-square&logo=c#&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=Go)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
