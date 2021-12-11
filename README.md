@@ -158,6 +158,6 @@
 [issues-url]: https://github.com/brau-lee/Brau-lee/issues
 [GitHub-version]:https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat
 [license-shield]: https://img.shields.io/badge/License-Apache2.0-blue.svg?style=flat
-[license-url]: https://github.com/Brau-lee/brau-lee/blob/main/LICENSE.txt
+[license-url]: https://github.com/Brau-lee/brau-lee/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/freddy-brau-lee-mamani-rivas-4456a5217/
